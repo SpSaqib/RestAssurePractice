@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="HP-LAPTOP" failures="0" tests="3" name="bookLibrary.DynamiccJson2" time="3.559" errors="0" timestamp="26 Jul 2024 05:10:57 GMT">
+  <testcase classname="bookLibrary.DynamiccJson2" name="addBook" time="3.135"/>
+  <testcase classname="bookLibrary.DynamiccJson2" name="addBook" time="0.163"/>
+  <testcase classname="bookLibrary.DynamiccJson2" name="addBook" time="0.233"/>
+</testsuite>
